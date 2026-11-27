@@ -10,7 +10,7 @@
 
 <br />
 
-<img src="https://komarev.com/ghpvc/?username=umar-khattab&label=PROFILE%20VIEWS&color=2DB5A5&style=for-the-badge" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=unarkhattab456&label=PROFILE%20VIEWS&color=2DB5A5&style=for-the-badge" alt="Profile Views" />
 <a href="https://github.com/unarkhattab456?tab=followers">
   <img src="https://img.shields.io/github/followers/unarkhattab456?label=FOLLOWERS&logo=github&style=for-the-badge&labelColor=000000&color=1f4e79" alt="Followers" />
 </a>
