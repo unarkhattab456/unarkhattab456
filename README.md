@@ -12,7 +12,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=umar-khattab&label=PROFILE%20VIEWS&color=2DB5A5&style=for-the-badge" alt="Profile Views" />
 <a href="https://github.com/unarkhattab456?tab=followers">
-  <img src="https://img.shields.io/github/followers/umar-khattab?label=FOLLOWERS&logo=github&style=for-the-badge&labelColor=000000&color=1f4e79" alt="Followers" />
+  <img src="https://img.shields.io/github/followers/unarkhattab456?label=FOLLOWERS&logo=github&style=for-the-badge&labelColor=000000&color=1f4e79" alt="Followers" />
 </a>
 <a href="https://github.com/unarkhattab456?tab=repositories">
   <img src="https://img.shields.io/badge/REPOSITORIES-EXPLORE-1f4e79?style=for-the-badge&logo=github&labelColor=000000" alt="Repositories" />
